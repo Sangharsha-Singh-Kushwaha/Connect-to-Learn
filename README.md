@@ -1,5 +1,5 @@
 # Connect-to-Learn
-This project is divided into two group:
+This project is divided into two parts:
 1. Front-end Development
 2. Back-end Development
 
