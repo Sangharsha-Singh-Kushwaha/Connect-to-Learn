@@ -22,3 +22,5 @@ This project is divided into two group:
 3. Github
 
 ## Home Page of Connnect to Learn blog
+![screencapture-localhost-9494-Connect-To-Learn-2021-08-14-03_46_51 (1)](https://user-images.githubusercontent.com/71713885/129426160-3f23e048-c8a0-471a-ba9f-10e6b8dc42a9.png)
+
