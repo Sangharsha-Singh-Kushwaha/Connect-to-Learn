@@ -30,7 +30,7 @@ This project is divided into two parts:
 ![screencapture-localhost-9494-Connect-To-Learn-Sign-Up-jsp-2021-08-14-03_49_01](https://user-images.githubusercontent.com/71713885/129426255-44eff0c8-6290-4f6f-b16e-f70beb1ed821.png)
 
 <<<<---->>>>
-## SignIn Page of CLT
+## LogIn Page of CLT
 ![screencapture-localhost-9494-Connect-To-Learn-Login-jsp-2021-08-14-03_50_04](https://user-images.githubusercontent.com/71713885/129426307-f7f58296-d8f1-4ea6-9dc1-541f5759b9ad.png)
 
 <<<<---->>>>
