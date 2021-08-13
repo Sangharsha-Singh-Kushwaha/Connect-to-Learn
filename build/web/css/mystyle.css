@@ -1,0 +1,31 @@
+
+body{
+    background-image: url('img/background.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.primary-background{
+    background-color: #42a5f5 !important;
+}
+#signUp{
+
+    padding-bottom: 150px;
+}
+#Login{
+
+    padding-bottom: 70px;
+}
+
+@media (min-width:768px)and (max-width: 1111px){
+
+    .sp>a{
+        display: block;
+        margin-bottom: 3px;
+        width:available ;
+        text-align: center;
+    }
+
+}
+

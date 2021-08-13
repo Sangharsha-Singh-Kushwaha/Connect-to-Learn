@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/java/com/ctl/dao/PostDao.java</url>
+            <bookmark id="2">
+                <name/>
+                <line>69</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/src/java/com/ctl/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/src/java/com/ctl/dao/LikeDao.java</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/web/Profile.jsp</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/src/java/com/ctl/dao/PostDao.java</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/src/java/com/ctl/dao/UserDao.java</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/web/Load_Post.jsp</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Desktop/NetBeansProjects/Connect%20To%20Learn/web/single_post.jsp</file>
+        </group>
+    </open-files>
+</project-private>
