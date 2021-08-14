@@ -12,6 +12,7 @@ This project is divided into two parts:
 ### Technology Use in Back-end Development 
 - JSP
 - Servlet
+- Ajax for asynchronous HTTP request
 
 ### Technology Use in database management
 - MySql
